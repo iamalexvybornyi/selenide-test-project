@@ -1,0 +1,5 @@
+app:
+  url:
+    home: http://localhost:3000/
+    auth: http://localhost:3000/auth
+    shop: http://localhost:3000/shop

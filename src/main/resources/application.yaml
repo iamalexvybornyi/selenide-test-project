@@ -1,0 +1,9 @@
+app:
+  browser:
+    name: firefox
+    resolution: 1920x1080
+    version: latest
+    headless: false
+spring:
+  profiles:
+    active: prod
